@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982095468787",
+    "project_id": "ladachi-sdn-bhd-database",
+    "storage_bucket": "ladachi-sdn-bhd-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982095468787:android:233e71cebe4d46d3eeff86",
+        "android_client_info": {
+          "package_name": "com.ladachi.flutter_app_ladachisb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982095468787-gndu3brilecu72uik88h6srudv9l4p9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo22zog9Srg3PI4o1tcnpq25KLe43u58c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982095468787-gndu3brilecu72uik88h6srudv9l4p9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
